@@ -1,0 +1,25 @@
+{
+  "name": "protractor_example",
+  "version": "1.0.0",
+  "description": "An example Protractor project that makes use of page objects...",
+  "engines": {
+    "node": "8.10.0"
+  },
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qualityshepherd/protractor_example.git"
+  },
+  "keywords": [
+    "protractor",
+    "tests",
+    "automation"
+  ],
+  "author": "Christian Chen",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
